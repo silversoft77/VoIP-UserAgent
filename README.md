@@ -15,25 +15,23 @@
   <!-- TABLE OF CONTENTS -->
   ## Table of Contents
   
-  - [Table of Contents](#table-of-contents)
-  - [About The Project](#about-the-project)
-    - [Application GUI](#application-gui) 
-  - [SIP Requests](#sip-requests)
-    - [INVITE](#INVITE)
-    - [ACK](#ACK)
-    - [BYE](#BYE)
-  - [Wireshark Captures](#wireshark-captures)
-    - [SIP](#sip) 
-    - [SIP and UDP](#sip-and-udp)
-  - [UML Diagrams](#uml-diagrams)
-    - [Class Diagram](#class-diagram)
-    - [Use Case Diagram](#use-case-diagram)
-  - [Screenshots](#screenshots)
-  - [Getting Started](#getting-started)
-    - [Libraries](#Libraries)
-    - [Updates](#updates)
-  - [License](#license)
-  - [Contributors](#contributors)
+- [Table of Contents](#table-of-contents)
+- [About The Project](#about-the-project)
+  - [Application GUI](#application-gui)
+- [SIP Requests](#sip-requests)
+  - [INVITE](#invite)
+  - [ACK](#ack)
+  - [BYE](#bye)
+- [Wireshark Captures](#wireshark-captures)
+  - [SIP](#sip)
+  - [SIP and UDP](#sip-and-udp)
+- [UML Diagrams](#uml-diagrams)
+  - [Class Diagram](#class-diagram)
+  - [Use Case Diagram](#use-case-diagram)
+- [Screenshots](#screenshots)
+- [Getting Started](#getting-started)
+  - [Libraries](#libraries)
+  - [Updates](#updates)
    
    <!-- ABOUT THE PROJECT -->
    ## About The Project
@@ -174,37 +172,5 @@
    ### Updates
    Pull this repository for updates.
    
-   <!-- LICENSE -->
-   ## LICENSE
-   Distributed under the GPL License. See `LICENSE` for more information.
-   <!-- VOIP LOGO IMAGE / SETTINGS IMAGE -->
-   <div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" 
-   title="Flaticon"> www.flaticon.com</a></div>
-   <!-- AUDIO CONTROL BUTTON -->
-   Icons made by <a href="https://www.flaticon.com/authors/eucalyp" title="Eucalyp">Eucalyp</a> from <a href="https://www.flaticon.com/" 
-   title="Flaticon"> www.flaticon.com</a>
-   <!-- FILE AUDIO BUTTON-->
-   <div>Icons made by <a href="https://www.flaticon.com/authors/smashicons" title="Smashicons">Smashicons</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
-   <!-- SINUSOIDAL AUDIO BUTTON-->
-   <div>Icons made by <a href="https://www.flaticon.com/authors/phatplus" title="phatplus">phatplus</a> from <a href="https://www.flaticon.com/" 
-   title="Flaticon">www.flaticon.com</a></div>
-   <!-- SPOILED AUDIO BUTTON -->
-   <div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" 
-   title="Flaticon">www.flaticon.com</a></div>
-   <!-- STOP AUDIO BUTTON -->
-   <div>Icons made by <a href="https://www.flaticon.com/authors/dinosoftlabs" title="DinosoftLabs">DinosoftLabs</a> from <a href="https://www.flaticon.com/" 
-   title="Flaticon">www.flaticon.com</a></div>
-   <!-- LOGS IMAGE -->
-   <div>Icons made by <a href="https://www.flaticon.com/authors/itim2101" title="itim2101">itim2101</a> from <a href="https://www.flaticon.com/" 
-   title="Flaticon">www.flaticon.com</a></div>
-
-   
-   <!-- CONTRIBUTORS -->
-   ## CONTRIBUTORS
-   [Daniele Pellegrini](https://github.com/danielepelleg) - 285240
-
-   [Guido Soncini](https://github.com/gweedo) - 285140
-
-   [Mattia Ricci](https://github.com/tiaringhio) - 285237
    
    
